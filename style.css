@@ -1,3 +1,9 @@
+head{ 
+  background-color: rgb(73, 250, 241);
+  margin: 10px;
+  height: 20px;
+}
+
 body{
   margin:0;
 }
