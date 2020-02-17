@@ -1,0 +1,22 @@
+body{
+  margin:0;
+}
+Header{
+  background-color: red;
+  height: 75px;
+  padding: 20px;
+  padding-bottom: 20 px;
+}
+article{
+  background-color: #add1b9;
+  width: 60vw;
+  margin: 0 auto;
+}
+nav{
+  float: left;
+  width: 20vw;
+  background-color: #e4dac5; 
+}
+footer{
+  background-color: mediumaquamarine
+}
