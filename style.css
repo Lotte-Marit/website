@@ -2,14 +2,16 @@ head{
   background-color: rgb(73, 250, 241);
   margin: 10px;
   height: 20px;
+
 }
 
 body{
   margin:0;
+  padding:10px;
 }
 Header{
-  background-color: red;
-  height: 75px;
+
+  height: 5px;
   padding: 20px;
   padding-bottom: 20 px;
 }
