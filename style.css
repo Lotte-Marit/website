@@ -10,8 +10,8 @@ body{
   padding:10px;
 }
 Header{
-
-  height: 5px;
+  background-image: url("/images/lgt.jpg");
+  height: 50px;
   padding: 20px;
   padding-bottom: 20 px;
 }
