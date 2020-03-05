@@ -11,9 +11,10 @@ body{
 }
 Header{
   background-image: url("/images/lgt.jpg");
-  height: 50px;
-  padding: 20px;
-  padding-bottom: 20 px;
+  background-size:550px 150px ;
+  height: 90px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 article{
   background-color: #add1b9;
