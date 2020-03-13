@@ -25,6 +25,11 @@ article1{
   width: 60vw;
   
 }
+article2{
+  h2{
+    font-weight: bold
+  }
+}
 nav{
   float: left;
   width: 20vw;
