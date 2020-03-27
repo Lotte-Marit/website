@@ -44,6 +44,17 @@ article1{
    
 }
 
+thead,
+tbody {
+    background-color: #e4f0f5;
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: left;
+  align: center;
+}
+
 iframe{
 
 }
