@@ -31,12 +31,13 @@ div.sticky {
   top: 0;
   padding: 5px;
   background-color: lightcyan;
-  
+
 }
 
-DIV.container {
+.container {
   vertical-align: middle;
   transform: translate(0, 200%) 
+
 }
 
 article1{
@@ -61,12 +62,6 @@ table, th, td {
    margin-left: center;
   }
 
-nav{
-  float: left;
-  width: 20vw;
-  background-color: #e4dac5; 
-}
-
 legend {
     background-color: #000;
     color: #fff;
@@ -81,3 +76,19 @@ input {
   text-align: middle;
   list-style-position: inside;
 }
+
+.navigatie {
+  width: 20%;
+  position: fixed;
+  left: 0;
+  padding-top: 8px;
+
+}
+
+.navigatie a {
+  text-decoration: none;
+  font-size: 25px;
+  display: block;
+  left: 0;
+}
+
