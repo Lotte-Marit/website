@@ -55,17 +55,18 @@ table, th, td {
   align: center;
 }
 
-iframe{
+ div.about{
+   border: 4px solid powderblue; 
+   text-align: left;
+   margin-left: center;
+  }
 
-}
 nav{
   float: left;
   width: 20vw;
   background-color: #e4dac5; 
 }
-footer{
-  background-color: mediumaquamarine
-}
+
 legend {
     background-color: #000;
     color: #fff;
@@ -74,4 +75,9 @@ legend {
 
 input {
     margin: .4rem;
+}
+
+.center {
+  text-align: middle;
+  list-style-position: inside;
 }
