@@ -1,16 +1,13 @@
 head{ 
-  background-color: rgb(73, 250, 241);
   margin: 10px;
   height: 20px;
-
 }
 
 body{
-  
   padding:10px;
-  text-align: center;
-  
+  text-align: center; 
 }
+
 Header{
   background-image: url("/images/classroom.jpg");
   background-repeat: no-repeat;
@@ -19,76 +16,70 @@ Header{
   padding-bottom: 20px;
 }
 
-  div{
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 0%;
+div{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 0%;
   }
 
-div.sticky {
+.sticky{
   position: -webkit-sticky;
   position: sticky;
   top: 0;
   padding: 5px;
   background-color: lightcyan;
-
 }
 
-.container {
+.container{
   vertical-align: middle;
   transform: translate(0, 200%) 
-
 }
 
 article1{
-  background-color:lightcyan;
-   
+  background-color:lightcyan; 
 }
 
 thead,
 tbody {
-    background-color: #e4f0f5;
+  background-color:lightcyan;
 }
 
-table, th, td {
+table, th, td{
   border: 1px solid black;
   text-align: left;
-  align: center;
 }
 
- div.about{
-   border: 4px solid powderblue; 
-   text-align: left;
-   margin-left: center;
-  }
-
-legend {
-    background-color: #000;
-    color: #fff;
-    padding: 3px 6px;
+.about{
+  border: 4px solid powderblue; 
+  text-align: left;
+  margin-left: center;
 }
 
-input {
-    margin: .4rem;
+legend{
+  background-color: #000;
+  color: #fff;
+  padding: 3px 6px;
 }
 
-.center {
+input{
+  margin: .4rem;
+}
+
+.center{
   text-align: middle;
   list-style-position: inside;
 }
 
-.navigatie {
+.navigatie{
   width: 20%;
   position: fixed;
   left: 0;
   padding-top: 8px;
-
 }
 
-.navigatie a {
+.navigatie a{
   text-decoration: none;
   font-size: 25px;
   display: block;
   left: 0;
 }
-
